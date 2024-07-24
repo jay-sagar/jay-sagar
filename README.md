@@ -12,5 +12,5 @@ Now, I'm also learning DSA and Springboot in Java.
 
 ## 🛠 Skills
 Javascript, HTML, CSS, Bootstrap, Tailwind, React, Nextjs, Node.js, jQuery, MongoDB,
-Moongose, SQL, Java, Springboot.
+Moongose, SQL, Java, Springboot, PostgreSQL, Drizzle.
 
