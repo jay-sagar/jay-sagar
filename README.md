@@ -7,7 +7,7 @@ Now, I'm also learning DSA and Springboot in Java.
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaysagar/)
-[![X](https://img.shields.io/twitter/follow/:user?style=for-the-badge&logo=X&logoColor=white)](https://x.com/p1ayjay)
+[![X](https://img.shields.io/twitter/follow/?style=for-the-badge&logo=X&logoColor=white)](https://x.com/p1ayjay)
 
 
 
