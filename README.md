@@ -10,5 +10,5 @@ I am a full stack web developer with a strong passion for creating cutting-edge 
 
 
 ## 🛠 Skills
-Java 1.7, Java 1.8, JavaScript, SpringBoot, React, Next.js, Node.js, PostgreSQL, MySQL, MongoDB, Redis, Kafka, AWS, and Docker.
+Java 1.7, Java 1.8, JavaScript, SpringBoot, React, Next.js, Tailwind, Bootstrap, Node.js, PostgreSQL, MySQL, MongoDB, Redis, Kafka, AWS, and Docker.
 
